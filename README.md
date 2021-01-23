@@ -12,3 +12,4 @@ based on Transformation to Two-objective Optimization Problems. Proceedings of F
 paper : https://www.jstage.jst.go.jp/article/fss/36/0/36_53/_article/-char/ja/  
 Yuto Fujii, Naoki Masuyama, Yusuke Nojima, Naoki Masuyama and Hisao Ishibuchi. A Multi-modal Multi-objective Evolutionary Algorithm
 based on Transformation to Two-objective Optimization Problems. Proceedings of Fuzzy System Symposium (FSS 2020).
+
